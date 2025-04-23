@@ -1,4 +1,6 @@
-https://github.com/dunaoki/Projeto-Power-BI-Pets.git
+Link do Notion:
+https://bolder-ice-30c.notion.site/Desenvolvendo-dashboard-em-Power-BI-1d54a17cfd55800cadd6c33a0fc104ed?pvs=4
+
 
 # Projeto Power BI - Documentação Passo a Passo
 
@@ -87,6 +89,4 @@ https://app.powerbi.com/view?r=eyJrIjoiNTBmZjI1M2UtNWZmNi00OTIxLTk0MzktZjQ2MGRjN
 
 [Relatório dos principais insights](https://www.notion.so/Relat-rio-dos-principais-insights-1dd4a17cfd5580b69815ca611b1d3b91?pvs=21)
 
-Link do Notion:
-https://bolder-ice-30c.notion.site/Desenvolvendo-dashboard-em-Power-BI-1d54a17cfd55800cadd6c33a0fc104ed?pvs=4
 
